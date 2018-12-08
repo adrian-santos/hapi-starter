@@ -1,0 +1,19 @@
+{
+  "name": "hapi-starter",
+  "version": "1.0.0",
+  "description": "Getting Started with Hapi JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrian-santos/hapi-starter.git"
+  },
+  "author": "adrian-santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrian-santos/hapi-starter/issues"
+  },
+  "homepage": "https://github.com/adrian-santos/hapi-starter#readme"
+}
